@@ -43,8 +43,4 @@ For more details on each command, use the `help` command followed by the desired
 
 Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Author: Your Name
+Author: Kanishk Jagya
